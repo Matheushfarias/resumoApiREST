@@ -22,5 +22,5 @@ Os códigos de status HTTP são retornados como parte da resposta de uma requisi
 - **200 OK:** indica que a requisição foi bem-sucedida.
 - **404 Not Found:** indica que o recurso solicitado não foi encontrado.
 - **500 Internal Server Error:** indica um erro interno no servidor.
-
+---
 *Matheus Henrique Farias de Almida - 01515159*
